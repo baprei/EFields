@@ -1,0 +1,15 @@
+%% simnibs results visualization
+
+clear all
+close all
+clc
+
+
+%addpath /opt/simnibs3/matlab/
+addpath /opt/simnibs3/simnibs/matlab/ % add path simnibs 3
+
+HomeDir='/pool-neu02/ds-neu2b/baprei-srv/Documents/MATLAB';
+cd /pool-neu02/ds-neu2b/baprei-srv/Documents/MATLAB/simulations
+%% General information
+
+Subj={'MNI_T1_1mm'}
